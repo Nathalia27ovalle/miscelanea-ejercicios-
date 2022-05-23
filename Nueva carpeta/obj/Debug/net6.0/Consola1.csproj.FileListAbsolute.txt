@@ -1,0 +1,15 @@
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\Consola1.csproj.AssemblyReference.cache
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\Consola1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\Consola1.AssemblyInfoInputs.cache
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\Consola1.AssemblyInfo.cs
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\Consola1.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Downloads\Nueva carpeta\bin\Debug\net6.0\Consola1.exe
+C:\Users\Sena\Downloads\Nueva carpeta\bin\Debug\net6.0\Consola1.deps.json
+C:\Users\Sena\Downloads\Nueva carpeta\bin\Debug\net6.0\Consola1.runtimeconfig.json
+C:\Users\Sena\Downloads\Nueva carpeta\bin\Debug\net6.0\Consola1.dll
+C:\Users\Sena\Downloads\Nueva carpeta\bin\Debug\net6.0\Consola1.pdb
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\Consola1.dll
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\refint\Consola1.dll
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\Consola1.pdb
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\Consola1.genruntimeconfig.cache
+C:\Users\Sena\Downloads\Nueva carpeta\obj\Debug\net6.0\ref\Consola1.dll
